@@ -9,9 +9,6 @@ const config = {
 
 const pool = new Pool(config);
 
-const properties = require("./json/properties.json");
-const users = require("./json/users.json");
-
 /// Users
 
 /**
